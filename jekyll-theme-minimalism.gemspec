@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-minimalism"
   spec.version       = "0.1.13"
-  spec.authors       = ["showzeng"]
-  spec.email         = ["kingstageshow@gmail.com"]
+  spec.authors       = ["pipi23333"]
+  spec.email         = ["2865541946a@gmail.com"]
 
   spec.summary       = "Minimalism is a jekyll theme for minimalist"
-  spec.homepage      = "https://github.com/showzeng/minimalism"
+  spec.homepage      = "https://github.com/pipi23333/pipi23333.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
