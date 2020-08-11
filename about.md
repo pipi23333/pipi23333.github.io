@@ -10,7 +10,7 @@ reward: false
 
 [pipisimple][1] 是一款基于 [Jekyll][2] 打造的简洁主题
 
-本主题采用了 [Minimalism] 主题进行定制。
+本主题采用了 [Minimalism][3] 主题进行定制。
 
 [1]:https://github.com/pipi23333/pipi23333.github.io
 [2]:https://jekyllrb.com/
