@@ -4,11 +4,11 @@ title: 关于
 reward: false
 ---
 
-###  <center>pipisimple</center>
+###  <center>"皮皮妙妙屋"</center>
 
 ---
 
-[pipisimple][1] 是一款基于 [Jekyll][2] 打造的简洁主题
+[皮皮妙妙屋][1] 是一款基于 [Jekyll][2] 打造的简洁主题
 
 本主题采用了 [Minimalism][3] 主题进行定制。
 
