@@ -94,3 +94,11 @@ Markdown一些基础语法
 示例：
 
 ![一张图片](https://www.pipi522.top/assets/img/avatar.webp)
+
+---
+
+本篇博客列举的语法模板部分参考了 [Cmd Markdown 编辑阅读器的语法说明]，感谢。
+
+---
+
+[Cmd Markdown 编辑阅读器的语法说明]: https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown
