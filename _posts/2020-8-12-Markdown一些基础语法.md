@@ -93,4 +93,4 @@ Markdown一些基础语法
 
 示例：
 
-![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
+![一张图片](https://www.pipi522.top/assets/img/avatar.webp)
